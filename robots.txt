@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eigeeveike.marcowright.com/sitemap.xml
